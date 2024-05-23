@@ -10,7 +10,7 @@ body{
 }
 
 .oscar img {
-    background-image: url('oscar.png')
+    background-image: url('oscar.png');
     max-width:20px;
     max-height:15px;
 }
