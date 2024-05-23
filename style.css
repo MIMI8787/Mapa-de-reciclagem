@@ -8,3 +8,8 @@ body{
     color: var(--preto);
     background-color: var(--cor-de-fundo);
 }
+
+.oscar img {
+    max-width:200px;
+    max-height:150px;
+}
