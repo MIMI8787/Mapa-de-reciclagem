@@ -1,0 +1,10 @@
+:root{
+    --preto: #000000;
+    --cor-de-fundo:#9ACD32;
+
+}
+
+body{
+    color: var(--preto);
+    background-color: var(--cor-de-fundo);
+}
