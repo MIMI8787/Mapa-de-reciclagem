@@ -1,3 +1,8 @@
+:root{
+    --cor-de-fundo:#90EE90
+
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -11,6 +16,9 @@ header{
     padding: 10px;
 }
 
+body{
+    background-color: var(--cor-de-fundo)
+}
 section{
     display: flex;
     align-items: center;
