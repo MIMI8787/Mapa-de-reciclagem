@@ -39,24 +39,16 @@ div{
 }
 
 
-ul li{
-    list-style: none;
-}
 
-.texto{
-    color: #808080;
-}
-
-a{
-    color: #808080; 
-    text-decoration: none; 
-}
 
 .lista{ 
     display: none; 
     position: absolute; 
     top: 100%;
     background-color: #rgb (99,72,72);
+    widht: 100%;
+    padding: 20px 0;
+    text-align: center;
 }
 
 .caixa:checked~.lista{
