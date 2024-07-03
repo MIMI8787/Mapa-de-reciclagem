@@ -63,6 +63,8 @@ div{
 .lista{
     display: none;
     position: absolute;
+    top: 100%;
+    background-color: beige;
 }
 
 .aba:checked~.lista{
