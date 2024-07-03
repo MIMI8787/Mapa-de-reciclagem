@@ -30,8 +30,8 @@ header{
 body{
     background-color: var(--cor-de-fundo)
 }
-section{
-    
+.oscar{
+    background-color: #32CD32;
     color: black;
     margin: 10px;
     padding: 10px 20px;
@@ -71,4 +71,5 @@ div{
 
 .mapadelixo{
     text-align: center;
+    padding: 10px 20px;
 }
