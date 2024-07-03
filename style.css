@@ -31,8 +31,6 @@ body{
     background-color: var(--cor-de-fundo)
 }
 section{
-    display: flex;
-    align-items: center;
     background-color: #32CD32;
     color: black;
     margin: 10px;
