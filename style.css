@@ -70,3 +70,7 @@ div{
 .aba:checked~.lista{
     display: block;
 }
+
+.mapadelixo{
+    text-align: center;
+}
