@@ -57,3 +57,14 @@ div{
 }
 
 
+#menu{
+    display: none;
+}
+
+.lista{
+    display: none;
+}
+
+.aba:checked~.lista{
+    display: block;
+}
